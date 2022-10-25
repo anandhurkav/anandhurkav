@@ -1,10 +1,11 @@
-<img  align="left"  alt="Coding" width="60" src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif"><h1 align="left">Hi , I'm Anandhu Radhakrishnan A V </h1><img  align="left"  alt="Coding" width="60" src="https://tenor.com/bI2bv.gif"> 
-<h1 align="left">About me</h1> 
+<img  align="left"  alt="Coding" width="60" src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif"><h1 align="left">Hi , I'm Anandhu Radhakrishnan A V </h1><img  align="left"  alt="Coding" width="60" src="https://media.tenor.com/ZkIw4P3EOJsAAAAi/mangekyo-sharingan-by-dark.gif"> 
+<h1 align="left">&nbsp About me</h1> 
 
 
 - Hello Everyone 👋, My name is Anandhu and my nick name is Nandhu.
 - I'm intrested in Dart/Flutter.
 - Presently, I'm developing ui & apps with Flutter.
+- Liverpool FC fan 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
