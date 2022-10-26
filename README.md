@@ -5,7 +5,7 @@
 - Hello Everyone 👋, My name is Anandhu and my nick name is Nandhu.
 - I'm intrested in Dart/Flutter.
 - Presently, I'm developing ui & apps with Flutter.
-- Liverpool FC fan  ⚽
+- Liverpool Supporter ⚽
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
