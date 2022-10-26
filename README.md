@@ -12,7 +12,7 @@
 <a href="https://twitter.com/anandhurkav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandhurkav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anandhu-radhakrishnan-av-4a6352254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandhu radhakrishnan av" height="30" width="40" /></a>
 <a href="https://instagram.com/ark_av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ark_av" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ark av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCBOMKYqeRyUFqp3yw_zdD9A" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCBOMKYqeRyUFqp3yw_zdD9A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCBOMKYqeRyUFqp3yw_zdD9A" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
