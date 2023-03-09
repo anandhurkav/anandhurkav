@@ -1,5 +1,5 @@
 <img  align="left"  alt="Coding" width="60" src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Malayalam&weight=800&size=30&pause=1000&color=9E35FFC5&width=435&lines=%E0%B4%95%E0%B5%87%E0%B4%B1%E0%B4%BF%E0%B4%B5%E0%B4%BE%E0%B4%9F%E0%B4%BE+%E0%B4%AE%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%B3%E0%B5%86...." alt="Typing SVG" /></a><img  align="left"  alt="Coding" width="70" src="https://media.tenor.com/0RxAveI4iJEAAAAi/motorcycle-riding.gif"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anek+Malayalam&weight=800&size=35&pause=1000&color=6B33CFC0&background=FFFFFF00&repeat=false&width=435&lines=%E0%B4%8E++%E0%B4%86%E0%B5%BC++%E0%B4%95%E0%B5%86+" alt="Typing SVG" /></a></a><img src="https://readme-typing-svg.demolab.com?font=Anek+Malayalam&weight=800&size=35&pause=1000&color=F72424&background=FFFFFF00&width=435&lines=%40+a+++r+++k+_+a+v" alt="Typing SVG" /></a></a></a></a></a></a></a><img  align="left"  alt="Coding" width="70" src="https://media.tenor.com/0RxAveI4iJEAAAAi/motorcycle-riding.gif"> 
 <h1 align="left">&nbsp About me</h1> 
 
 
